@@ -13,3 +13,5 @@ PyQt6
 OpenCV
 MSS
 screeninfo
+# Installation
+Click [here]([https://www.google.com](https://github.com/PersonalBeast/SS-record/releases/tag/v1.0.0)https://github.com/PersonalBeast/SS-record/releases/tag/v1.0.0) to install the application.
