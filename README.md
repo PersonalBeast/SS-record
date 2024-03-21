@@ -1,5 +1,5 @@
-# Screen Recorder with PyQt6
-This Python application enables users to record their screen with the option to select from multiple monitors. It utilizes PyQt6 for the GUI, OpenCV for video processing, and MSS for screen capturing, offering a simple yet powerful screen recording tool.
+# Simple Screen Recorder
+This Python application enables users to record their screen with the option to select from multiple monitors. In main.py it utilizes PyQt6 for the GUI, OpenCV for video processing, and MSS for screen capturing, offering a simple yet powerful screen recording tool.
 
 # Features
 Multi-Monitor Support: Choose which monitor you want to record from a simple dropdown.
